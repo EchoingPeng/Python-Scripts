@@ -31,4 +31,4 @@ grid.to_file("grid.shp")
 
 ## Reference
 ## https://gis.stackexchange.com/questions/269243/create-a-polygon-grid-using-with-geopandas
-## This was an answer found on Stack Overflow.
+## This is an answer found on Stack Overflow.
